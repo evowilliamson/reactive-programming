@@ -1,6 +1,6 @@
 # Front-End development
 
-This repository contains books, articles and other sort of references used to support my Front-en development learning.
+Collected material regarding design patterns.
 
 |Article/Book| Authors |  Comments 
 |--|--|--|
@@ -9,6 +9,7 @@ This repository contains books, articles and other sort of references used to su
 [Asynchronous programming and continuation-passing style in JavaScript](https://2ality.com/2012/06/continuation-passing-style.html) | Axel Rauschmayer | In this blog post, we give a name to JavaScript’s callback-based asynchronous programming style: continuation-passing style (CPS). We explain how CPS works and give tips for using it
 [Promises/A+](https://promisesaplus.com/) | | An open standard for sound, interoperable JavaScript promises—by implementers, for implementers
 [NGXS](https://www.ngxs.io/) | | NGXS is a state management pattern + library for Angular
+[ECMAScript Observable](https://github.com/tc39/proposal-observable/) | | This proposal introduces an Observable type to the ECMAScript standard library. The Observable type can be used to model push-based data sources such as DOM events, timer intervals, and sockets
 
 
 

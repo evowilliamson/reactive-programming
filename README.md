@@ -1,6 +1,6 @@
 # Front-End development
 
-Collected material regarding design patterns.
+Collected material regarding front-end that I went through in order to gain more traction with front-end development:
 
 |Article/Book| Authors |  Comments 
 |--|--|--|
